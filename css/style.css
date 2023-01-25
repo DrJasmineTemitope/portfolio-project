@@ -18,6 +18,7 @@ h3 {
 h1 {
   font-size: 94px;
   font-weight: bold;
+  line-height: 2px;
 }
 
 .hero {
@@ -35,4 +36,11 @@ h1 {
   font-family: var(--default-font-family);
   font-size: 24px;
   font-weight: Regular;
+}
+
+.branding {
+  background: var(--branding-color);
+  color: #fff;
+  padding: 15px 30px;
+  border-radius: 4px;
 }
