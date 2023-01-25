@@ -1,10 +1,10 @@
 :root {
-  font-family: "Playfair Display", serif;
-  font-family: "Poppins", sans-serif;
+  --primary-color: #f9f7fe;
+  --branding-color: #662eed;
+  --headind-font-family: "Playfair Display", serif;
+  --default-font-family: "Poppins", sans-serif;
 }
 
-h1 {
-  font-family: "Playfair Display", serif;
-  color: blueviolet;
-  font-weight: bold;
+body {
+  font-family: var(--default-font-family);
 }
