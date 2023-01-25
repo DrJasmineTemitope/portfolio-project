@@ -23,7 +23,7 @@ h1 {
 .hero {
   background: var(--primary-color);
   text-align: center;
-  padding: 160px 30px;
+  padding: 160px 20px;
 }
 
 .hero p {
@@ -38,7 +38,7 @@ h1 {
   font-weight: Regular;
 }
 
-. btn-branding {
+.btn-branding {
   background: var(--branding-color);
   color: #fff;
   padding: 15px 30px;
