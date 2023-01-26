@@ -77,6 +77,9 @@ p {
     margin: 160px;
   }
 
+  .col-sm-block img {
+    width: 100%;
+  }
   .project-description {
     text-align: center;
   }
