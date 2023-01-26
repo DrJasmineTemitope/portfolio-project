@@ -73,9 +73,12 @@ p {
 }
 
 @media (max-width: 787px) {
+  .col-sm-block {
+    margin: 160px;
+  }
+
   .col-sm-block .img-fluid {
     width: 100%;
-    margin: 160px;
   }
 
   .project-description {
