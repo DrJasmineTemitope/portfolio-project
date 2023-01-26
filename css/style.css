@@ -74,7 +74,7 @@ p {
 
 @media (max-width: 787px) {
   .col-sm-block {
-    margin: 160px;
+    margin: 130px;
   }
 
   .col-sm-block .img-fluid {
