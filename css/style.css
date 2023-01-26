@@ -73,6 +73,10 @@ p {
 }
 
 @media (max-width: 787px) {
+  .col-sm-block {
+    margin: 160px;
+  }
+
   .project-description {
     text-align: center;
   }
