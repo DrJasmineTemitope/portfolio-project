@@ -73,11 +73,6 @@ p {
 }
 
 @media (max-width: 787px) {
-  .col-sm-block img {
-    margin: 50% auto;
-    width: 100%;
-    height: auto;
-  }
   .project-description {
     text-align: center;
   }
