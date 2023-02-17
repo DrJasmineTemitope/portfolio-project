@@ -178,6 +178,10 @@ p a:hover {
   color: var(--branding-color);
 }
 
+p .open-sourced {
+  text-decoration: underline;
+  color: var(--branding-color);
+}
 @media (max-width: 900px) {
   h1 {
     font-size: 48px;
